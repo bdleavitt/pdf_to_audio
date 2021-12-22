@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "COMPUTER_VISION_RESOURCE_ENDPOINT" : "https://yourvisionserviceendpoint.cognitiveservices.azure.com",
+    "COMPUTER_VISION_RESOURCE_KEY" : "your_vision_service_key",
+    "COMPUTER_VISION_RESOURCE_REGION" : "vision_service_region",
+    "TRANSLATOR_RESOURCE_ENDPOINT" : "https://api.cognitive.microsofttranslator.com",
+    "TRANSLATOR_RESOURCE_KEY" : "translator_resource_key",
+    "TRANSLATOR_RESOURCE_REGION" : "translator_resource_region",
+    "TEXT_TO_SPEECH_KEY" : "text_to_speech_key",
+    "TEXT_TO_SPEECH_REGION": "text_to_speech_region"
+  }
+}
